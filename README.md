@@ -86,9 +86,9 @@ A：我们针对朱雀做过专项调优与大量复测，其他检测器的判�
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 - 当前版本：v3.6.14（2026-10-26）
-- 客服 QQ：574719738 ｜ 客服微信：movu0510
+- 客服 QQ：574719738
 
-> 零创是 Windows 桌面商业软件，提供体验卡密；正式使用需购买月卡 / 季卡 / 年卡。
+> 零创是 Windows 桌面商业软件，使用需授权卡密；获取卡密请联系作者（客服 QQ 574719738）。
 
 > 完整功能、版本更新与更多专题见主仓库：[LingCraft-AI-writing-tool](https://github.com/lingxiaoyiyu-hub/LingCraft-AI-writing-tool)
 
